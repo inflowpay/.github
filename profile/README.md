@@ -4,7 +4,9 @@
 
 Infliow is your cheaper, faster and safer alternative to old PSPs. It enables online businesses to accept global payments. Use it for your online shop, your SaaS, you're B2C decentralized application and more !
 
+<div class="center">
 <img src="https://gateway.pinata.cloud/ipfs/QmcnhWbzSWqoVmx6VwScxq5ie49jbQfXYdMPr1dydU5cHo" width="500">
+</div>
 
 ## About Inflow
 
