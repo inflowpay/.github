@@ -28,4 +28,4 @@ In an era where online payment getting borderless, most of the Fintech are runni
 
 ### Learn More
 
-Visit [WIPwebsite]() or follow us on [Twitter](https://twitter.com/Inflow_pay) for the latest updates. Inflow is in private alpha but you can ping the team a DM or file this [WIPwaitlist]() if you want a sneak peek into the future of online payments.
+Visit [our website](https://inflowpay.xyz) or follow us on [Twitter](https://twitter.com/Inflow_pay) for the latest updates. Inflow is in private alpha but you can ping the team a DM or file this [WIPwaitlist]() if you want a sneak peek into the future of online payments.
