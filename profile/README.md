@@ -16,10 +16,8 @@ In an era where online payment getting borderless, most of the Fintech are runni
 
 #### Payment Gateway
 
-- 1% Transaction Fees: Dramatically decreases costs for online merchants.
-- ⁠No KYC Required: Ensures a a smooth payment experience without without requiring KYC verification from payers.
+- Lower cross border Transaction Fees: Dramatically decreases costs for online merchants.
 - ⁠Fast Settlement: Get your funds settled quickly and securely.
-- ⁠Crossborder Payments: Unlock any business to go worldwide.
 
 #### Onchain Merchant Account
 
